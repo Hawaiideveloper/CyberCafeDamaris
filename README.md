@@ -1,5 +1,10 @@
 # NicaLista.com
-selling and buying things internationally
+
+
+
+<p>Trying to unite the world so that everyone in GOD's eyes can see the beauty in trading with one another.</p>
+<p>This site is intended to fix the poverty, and correct the wealth distrobution system, so that all of GOD's .</p>
+<p>children have a fair chance at becoming rich, by selling and buying things internationally.</p>
 
 
 
