@@ -1,14 +1,6 @@
 # NicaLista.com
-
-
-
-<p>Trying to unite the world so that everyone in GOD's eyes can see the beauty in trading with one another.</p>
-<p>This site is intended to fix the poverty, and correct the wealth distrobution system, so that all of GOD's .</p>
-<p>children have a fair chance at becoming rich, by selling and buying things internationally.</p>
-
-
-
 <img src="nicalista.jpg" alt="Italian Trulli">
+
 
 
 
@@ -23,6 +15,16 @@
  <h5> testing html heading 5 </h5>
  <h6> testing html heading 6 </h6>
  
+  
+ <h7> 
+<p>Trying to unite the world so that everyone in GOD's eyes can see the beauty in trading with one another.</p>
+<p>This site is intended to fix the poverty, and correct the wealth distrobution system, so that all of GOD's .</p>
+<p>children have a fair chance at becoming rich, by selling and buying things internationally.</p>
+</h7>
+  
+  
+  
+  
 
     
   <table>
