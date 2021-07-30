@@ -9,7 +9,7 @@ selling and buying things internationally
 </ul>
 </div>
 
-<img src="pic_trulli.jpg" alt="Italian Trulli">
+<img src="nicalista.jpg" alt="Italian Trulli">
 
 <div class="something" markdown="1">
   # Using Markdown 
