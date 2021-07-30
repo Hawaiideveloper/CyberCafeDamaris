@@ -50,14 +50,14 @@
     <td></td>
   </tr>
      <tr>
-    <td>Vegetarian Platters</td>
+    <td>Raspberry smoothie</td>
     <td></td>
     <td></td>
     <td></td>
     <td></td>
   </tr>
   <tr>
-    <td>Pork Platters</td>
+    <td>Ice Filtered Water</td>
     <td></td>
     <td></td>
     <td></td>
