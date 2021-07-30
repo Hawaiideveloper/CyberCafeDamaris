@@ -22,7 +22,54 @@
     
   <table>
   <tr>
-    <td>Items Selling</td>
+    <td>Drinks</td>
+    <td>Description</td>
+    <td>Price</td>
+    <td>Tax 1</td>
+    <td>Tax 2</td>
+  </tr>
+  <tr>
+    <td>Strawberry smoothie</td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>Mango smoothie</td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>Strawberry / Banana smoothie</td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+  </tr>
+     <tr>
+    <td>Vegetarian Platters</td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>Pork Platters</td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+  </tr>
+</table>
+  
+  
+     
+  <table>
+  <tr>
+    <td>Platters</td>
     <td>Description</td>
     <td>Price</td>
     <td>Tax 1</td>
@@ -50,7 +97,7 @@
     <td></td>
   </tr>
      <tr>
-    <td>Chicken Platters</td>
+    <td>Vegetarian Platters</td>
     <td></td>
     <td></td>
     <td></td>
@@ -64,6 +111,7 @@
     <td></td>
   </tr>
 </table>
+  
   
 
 </div>
