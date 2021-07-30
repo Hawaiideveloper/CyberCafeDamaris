@@ -9,15 +9,15 @@
     <td>Smoothies</td>
     <td>Description</td>
     <td>Price</td>
-    <td>Tax 1</td>
-    <td>Tax 2</td>
+    <td>USA 1</td>
+    <td>NICA 2</td>
   </tr>
   <tr>
     <td>Strawberry smoothie</td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
+    <td> Strawberries, crushed, ice added and flavors </td>
+    <td>$2.00</td>
+    <td>$0.00</td>
+    <td>$0.00</td>
   </tr>
   <tr>
     <td>Mango smoothie</td>
