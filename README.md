@@ -22,7 +22,7 @@
     
   <table>
   <tr>
-    <td>Drinks</td>
+    <td>Smoothies</td>
     <td>Description</td>
     <td>Price</td>
     <td>Tax 1</td>
@@ -112,6 +112,50 @@
   </tr>
 </table>
   
+   <table>
+  <tr>
+    <td>Drinks</td>
+    <td>Description</td>
+    <td>Price</td>
+    <td>Tax 1</td>
+    <td>Tax 2</td>
+  </tr>
+  <tr>
+    <td>Coca-Cola</td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>Sprite</td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>Pepsi</td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+  </tr>
+     <tr>
+    <td>Lemonade</td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>Artificial Juice</td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+  </tr>
+</table>
   
 
 </div>
@@ -119,14 +163,14 @@
 
 
 
-<insert photo here>.             Title_ Here.            Address and phone numbers here
+
 
 
 
 Photo of restraunt with umbrellas
 
 
-
+<img src="nicalista.jpg" alt="Italian Trulli">
 
 
 
