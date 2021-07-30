@@ -2,21 +2,18 @@
 selling and buying things internationally
 
 
- hello **this is going to be bold**<link href="style.css" rel="stylesheet"></link>
-
-# Heading 1
+# Using Markdown 
 
 <div class="something" markdown="1">
   ## Heading 2
-  Some **bold** text.
+  Some **bold** text in markdown.
 </div>
 
 
-# Heading 1
 
 <div class="something" >
   ## Heading 2
-  Some **bold** text.
+  Some **bold** text using H1 -7 HTML tags no markdown below.
  
  <h1> testing html heading 1 </h1>
  <h2> testing html heading 2 </h2>
