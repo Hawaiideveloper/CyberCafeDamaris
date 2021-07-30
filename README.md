@@ -2,7 +2,8 @@
 <img src="nicalista.jpg" alt="Italian Trulli">
 
 
-   
+
+### Products we provide at the northern Eastern side
   <table>
   <tr>
     <td>Smoothies</td>
@@ -170,7 +171,7 @@
 
 
 
-# Service we provide at the norther side
+# Service we provide at the northern western side
 
  <table>
   <tr>
