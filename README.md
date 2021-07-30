@@ -50,7 +50,6 @@
 </table>
 
 
-## Dishes  
   <table>
   <tr>
     <td>Platters</td>
