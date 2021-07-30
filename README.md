@@ -22,11 +22,11 @@
     
   <table>
   <tr>
-    <td>row_1/col_1</td>
-    <td>col_2</td>
-    <td>col_3</td>
-    <td>col_4</td>
-    <td>col_5</td>
+    <td>Items Selling</td>
+    <td>Description</td>
+    <td>Price</td>
+    <td>Tax 1</td>
+    <td>Tax 2</td>
   </tr>
   <tr>
     <td>row_2</td>
