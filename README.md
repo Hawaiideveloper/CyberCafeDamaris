@@ -2,9 +2,10 @@
 selling and buying things internationally
 
 
-# Using Markdown 
+
 
 <div class="something" markdown="1">
+  # Using Markdown 
   ## Heading 2
   Some **bold** text in markdown.
 </div>
@@ -21,17 +22,9 @@ selling and buying things internationally
  <h4> testing html heading 4 </h4>
  <h5> testing html heading 5 </h5>
  <h6> testing html heading 6 </h6>
-  table {
-  border-collapse: collapse;
+ 
 
-  <style>
-}
-table td {
-  border: 1px solid black;
-}
-  
-  
-  
+    
   <table>
   <tr>
     <td>row_1/col_1</td>
@@ -70,7 +63,7 @@ table td {
   </tr>
 </table>
   
-  </style>
+
 </div>
 
 
