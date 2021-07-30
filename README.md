@@ -158,16 +158,10 @@
 </table>
   
 
+    
 </div>
 
 
-
-
-
-
-
-
-Photo of restraunt with umbrellas
 
 
 <img src="staff_photo_with_umbrellas.jpeg" alt="staff photo with umbrellas over table">
@@ -176,17 +170,58 @@ Photo of restraunt with umbrellas
 
 
 
+ <table>
+  <tr>
+    <td>Services Below</td>
+    <td>Description</td>
+    <td>Price</td>
+    <td>Tax 1</td>
+    <td>Tax 2</td>
+  </tr>
+  <tr>
+    <td>Printing</td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>Copying</td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>Faxing</td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+  </tr>
+     <tr>
+    <td>Scanning</td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>Combo</td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+  </tr>
+</table>
 
-Services below
 
 
 
 
 
 
-
-I love you Mom, Damaris, Alidzy, and King.  I pray our business is so successful that you all can buy anything you want and have all the time in the world to 
-buy and enjoy them.
+I love you Mom, Damaris, Alidzy, and King.  I pray our businesses are so successful that you all can buy anything you want and have all the time in the world to buy and enjoy them.
 
 Damaris, I pray we get enough money to finish all the property construction and make some good things happen for us
 
