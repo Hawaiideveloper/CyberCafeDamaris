@@ -29,7 +29,9 @@ selling and buying things internationally
 table td {
   border: 1px solid black;
 }
-  </style>
+  
+  
+  
   <table>
   <tr>
     <td>row_1/col_1</td>
@@ -68,7 +70,7 @@ table td {
   </tr>
 </table>
   
-  
+  </style>
 </div>
 
 
