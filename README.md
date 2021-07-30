@@ -44,11 +44,13 @@
     <td>Ice Filtered Water</td>
     <td>small cup 5 cordobas</td>
     <td>medium cup 7 cordobas</td>
-    <td></td>
-    <td></td>
+    <td>$0.00</td>
+    <td>$0.00</td>
   </tr>
 </table>
 
+
+## Dishes
   <table>
   <tr>
     <td>Platters</td>
@@ -58,18 +60,31 @@
     <td>Tax 2</td>
   </tr>
   <tr>
-    <td>Beef Platters</td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
+    <td>Hamburger Beef Sandwhich with choice of sauces</td>
+    <td> 1/8 pound burger</td>
+    <td>$2.00</td>
+    <td>$0.00</td>
+    <td>$0.00</td>
+  </tr>
+   <tr>
+    <td>Cheeseburger Beef Sandwhich with choice of sauces</td>
+    <td>Cheese on a 1/8 pound burger</td>
+    <td>$3.00</td>
+    <td>$0.00</td>
+    <td>$0.00</td>
+  </tr>
+     <td>Double Cheeseburger Beef and Bacon Sandwhich</td>
+    <td>Cheese on 2 1/8 pound burger with choice of sauces</td>
+    <td>$5.00</td>
+    <td>$0.00</td>
+    <td>$0.00</td>
   </tr>
   <tr>
     <td>Seafood Platters</td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
+    <td>Fried Red Snapper fish </td>
+    <td>$8.00</td>
+    <td>$0.00</td>
+    <td>$0.00</td>
   </tr>
   <tr>
     <td>Chicken Platters</td>
