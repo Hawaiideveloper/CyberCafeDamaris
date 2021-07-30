@@ -4,6 +4,24 @@ selling and buying things internationally
 
  hello **this is going to be bold**<link href="style.css" rel="stylesheet"></link>
 
+# Heading 1
+
+<div class="something" markdown="1">
+  ## Heading 2
+  Some **bold** text.
+</div>
+
+
+# Heading 1
+
+<div class="something" >
+  ## Heading 2
+  Some **bold** text.
+ 
+ <h1> testing html </h1>
+</div>
+
+
 
 
 <insert photo here>.             Title_ Here.            Address and phone numbers here
