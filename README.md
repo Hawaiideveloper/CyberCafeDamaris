@@ -170,7 +170,7 @@
 Photo of restraunt with umbrellas
 
 
-<img src="nicalista.jpg" alt="Italian Trulli">
+<img src="staff_photo_with_umbrellas.jpg" alt="Italian Trulli">
 
 
 
