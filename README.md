@@ -18,7 +18,12 @@ selling and buying things internationally
   ## Heading 2
   Some **bold** text.
  
- <h1> testing html </h1>
+ <h1> testing html heading 1 </h1>
+ <h2> testing html heading 2 </h2>
+ <h3> testing html heading 3 </h3>
+ <h4> testing html heading 4 </h4>
+ <h5> testing html heading 5 </h5>
+ <h6> testing html heading 6 </h6>
 </div>
 
 
