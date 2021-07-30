@@ -6,11 +6,11 @@
 ### Products we provide at the northern Eastern side
   <table>
   <tr>
-    <td>Smoothies</td>
+    <td>All Natural Smoothies</td>
     <td>Description</td>
     <td>Price</td>
-    <td>USA 1</td>
-    <td>NICA 2</td>
+    <td> ~ USA Tax ~ </td>
+    <td> ~ NICA Tax ~ </td>
   </tr>
   <tr>
     <td>Strawberry smoothie</td>
@@ -21,24 +21,24 @@
   </tr>
   <tr>
     <td>Mango smoothie</td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
+    <td> Mangos, crushed, ice added and flavors </td>
+    <td>$2.00</td>
+    <td>$0.00</td>
+    <td>$0.00</td>
   </tr>
   <tr>
     <td>Strawberry / Banana smoothie</td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
+    <td> Strawberry / Banana, crushed, ice added and flavors </td>
+    <td>$2.00</td>
+    <td>$0.00</td>
+    <td>$0.00</td>
   </tr>
      <tr>
-    <td>Raspberry smoothie</td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
+    <td>Raspberry </td>
+    <td> Raspberry, crushed, ice added and flavors </td>
+    <td>$2.00</td>
+    <td>$0.00</td>
+    <td>$0.00</td>
   </tr>
   <tr>
     <td>Ice Filtered Water</td>
