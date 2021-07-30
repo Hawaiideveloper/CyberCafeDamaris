@@ -42,8 +42,8 @@
   </tr>
   <tr>
     <td>Ice Filtered Water</td>
-    <td></td>
-    <td></td>
+    <td>small cup 5 cordobas</td>
+    <td>medium cup 7 cordobas</td>
     <td></td>
     <td></td>
   </tr>
