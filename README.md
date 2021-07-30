@@ -2,6 +2,9 @@
 selling and buying things internationally
 
 
+ hello **this is going to be bold**<link href="style.css" rel="stylesheet"></link>
+
+
 
 <insert photo here>.             Title_ Here.            Address and phone numbers here
 
