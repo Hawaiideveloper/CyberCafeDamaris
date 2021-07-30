@@ -21,6 +21,54 @@ selling and buying things internationally
  <h4> testing html heading 4 </h4>
  <h5> testing html heading 5 </h5>
  <h6> testing html heading 6 </h6>
+  table {
+  border-collapse: collapse;
+
+  <style>
+}
+table td {
+  border: 1px solid black;
+}
+  </style>
+  <table>
+  <tr>
+    <td>row_1/col_1</td>
+    <td>col_2</td>
+    <td>col_3</td>
+    <td>col_4</td>
+    <td>col_5</td>
+  </tr>
+  <tr>
+    <td>row_2</td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>row_3</td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>row_4</td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>row_5</td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+  </tr>
+</table>
+  
+  
 </div>
 
 
