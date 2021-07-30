@@ -1,21 +1,9 @@
 # NicaLista.com
 selling and buying things internationally
 
-<div>
-<ul>
-  <li>Coffee</li>
-  <li>Tea</li>
-  <li>Milk</li>
-</ul>
-</div>
+
 
 <img src="nicalista.jpg" alt="Italian Trulli">
-
-<div class="something" markdown="1">
-  # Using Markdown 
-  ## Heading 2
-  Some **bold** text in markdown.
-</div>
 
 
 
