@@ -5,22 +5,15 @@
 
 
 <div class="something" >
-  ## Heading 2
-  Some **bold** text using H1 -7 HTML tags no markdown below.
+  ## Mission Statement:
  
- <h1> testing html heading 1 </h1>
- <h2> testing html heading 2 </h2>
- <h3> testing html heading 3 </h3>
- <h4> testing html heading 4 </h4>
- <h5> testing html heading 5 </h5>
- <h6> testing html heading 6 </h6>
  
   
- <h7> 
+ <h6> 
 <p>Trying to unite the world so that everyone in GOD's eyes can see the beauty in trading with one another.</p>
 <p>This site is intended to fix the poverty, and correct the wealth distrobution system, so that all of GOD's .</p>
 <p>children have a fair chance at becoming rich, by selling and buying things internationally.</p>
-</h7>
+</h6>
   
   
   
