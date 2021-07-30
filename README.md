@@ -29,28 +29,35 @@
     <td>Tax 2</td>
   </tr>
   <tr>
-    <td>row_2</td>
+    <td>Beef Platters</td>
     <td></td>
     <td></td>
     <td></td>
     <td></td>
   </tr>
   <tr>
-    <td>row_3</td>
+    <td>Seafood Platters</td>
     <td></td>
     <td></td>
     <td></td>
     <td></td>
   </tr>
   <tr>
-    <td>row_4</td>
+    <td>Chicken Platters</td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+  </tr>
+     <tr>
+    <td>Chicken Platters</td>
     <td></td>
     <td></td>
     <td></td>
     <td></td>
   </tr>
   <tr>
-    <td>row_5</td>
+    <td>Pork Platters</td>
     <td></td>
     <td></td>
     <td></td>
