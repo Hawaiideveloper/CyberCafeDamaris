@@ -170,7 +170,7 @@
 
 
 
-
+# Service we provide at the norther side
 
  <table>
   <tr>
@@ -208,13 +208,6 @@
     <td></td>
     <td></td>
   </tr>
-  <tr>
-    <td>Combo</td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-  </tr>
 </table>
 
 
@@ -223,9 +216,7 @@
 
 
 
-I love you Mom, Damaris, Alidzy, and King.  I pray our businesses are so successful that you all can buy anything you want and have all the time in the world to buy and enjoy them.
-
-Damaris, I pray we get enough money to finish all the property construction and make some good things happen for us
+I love you GOD, Mom Damaris, Alidzy, and King!  I pray our businesses are so successful that you all can buy anything you want and have all the time in the world to buy and enjoy them.  Damaris, I pray we get enough money to finish all the property construction and make some good things happen for us
 
 
 https://hawaiideveloper.github.io/nicalista/
