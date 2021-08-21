@@ -6,7 +6,7 @@
 ### Products we provide at the northern Eastern side
   <table>
   <tr>
-    <td>All Natural Smoothies</td>
+    <td>Todos los batidos naturales</td>
     <td>Description</td>
     <td>Price</td>
     <td> ~ USA Tax ~ </td>
