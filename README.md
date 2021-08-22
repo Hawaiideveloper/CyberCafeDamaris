@@ -7,7 +7,7 @@
   <table>
   <tr>
     <td>Todos los batidos naturales</td>
-    <td>Description</td>
+    <td>Batido de sabores naturales</td>
     <td>Precio</td>
     <td> ~ USA Impuesto ~ </td>
     <td> ~ NICA Impuesto ~ </td>
