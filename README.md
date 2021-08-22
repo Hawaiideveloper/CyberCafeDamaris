@@ -52,57 +52,57 @@
 
   <table>
   <tr>
-    <td>Platters</td>
-    <td>Description</td>
-    <td>Price</td>
-    <td>Tax 1</td>
-    <td>Tax 2</td>
+    <td>Platos</td>
+    <td>Comidas rapidas</td>
+    <td>Precio</td>
+    <td>Impuesto 1</td>
+    <td>Impuesto 2</td>
   </tr>
   <tr>
-    <td>Hamburger Beef Sandwhich with choice of sauces</td>
-    <td> 1/8 pound burger</td>
+    <td>Sándwich de hamburguesa de ternera con salsas y otros aderezos a elegir</td>
+    <td> Hamburguesa de 1/8 de libra</td>
     <td>$2.00</td>
     <td>$0.00</td>
     <td>$0.00</td>
   </tr>
    <tr>
-    <td>Cheeseburger Beef Sandwhich with choice of sauces</td>
-    <td>Cheese on a 1/8 pound burger</td>
+    <td>Sándwich de hamburguesa con queso y carne con diferentes aderezos y salsas.</td>
+    <td>Queso en una hamburguesa de 1/8 de libra</td>
     <td>$3.00</td>
     <td>$0.00</td>
     <td>$0.00</td>
   </tr>
-     <td>Double Cheeseburger Beef and Bacon Sandwhich</td>
-    <td>Cheese on 2 1/8 pound burger with choice of sauces</td>
+     <td>Double Bacon Cheeseburger or 1/4 pound Beef Sandwhich</td>
+    <td>Queso en una hamburguesa de 2 1/8 libras o 1/4 de carne de res con la elección de salsas o aderezos</td>
     <td>$5.00</td>
     <td>$0.00</td>
     <td>$0.00</td>
   </tr>
   <tr>
-    <td>Seafood Platters</td>
-    <td>Fried Red Snapper fish </td>
+    <td>Bandejas de mariscos</td>
+    <td>Pescado frito pargo rojo</td>
     <td>$8.00</td>
     <td>$0.00</td>
     <td>$0.00</td>
   </tr>
   <tr>
-    <td>Chicken Platters</td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
+    <td>Bandejas de pollo</td>
+    <td>sándwich de pollo</td>
+    <td>$8.00</td>  
+    <td>$0.00</td>  
+    <td>$0.00</td>  
   </tr>
      <tr>
-    <td>Vegetarian Platters</td>
-    <td></td>
-    <td></td>
+    <td>Platos vegetarianos</td>
+    <td>Ensalada</td>
+    <td>$4.00</td>
     <td></td>
     <td></td>
   </tr>
   <tr>
-    <td>Pork Platters</td>
-    <td></td>
-    <td></td>
+    <td>Bandejas de cerdo</td>
+    <td>Costillas de cerdo</td>
+    <td>$8.00</td>
     <td></td>
     <td></td>
   </tr>
@@ -111,11 +111,11 @@
   
    <table>
   <tr>
-    <td>Drinks</td>
-    <td>Description</td>
-    <td>Price</td>
-    <td>Tax 1</td>
-    <td>Tax 2</td>
+    <td>Bebidas</td>
+    <td>Soda</td>
+    <td>Precio</td>
+    <td>Impuesto 1</td>
+    <td>Impuesto 2</td>
   </tr>
   <tr>
     <td>Coca-Cola</td>
@@ -139,14 +139,14 @@
     <td></td>
   </tr>
      <tr>
-    <td>Lemonade</td>
+    <td>Limonada</td>
     <td></td>
     <td></td>
     <td></td>
     <td></td>
   </tr>
   <tr>
-    <td>Artificial Juice</td>
+    <td>Jugo artificial</td>
     <td></td>
     <td></td>
     <td></td>
@@ -155,14 +155,12 @@
 </table>
 
 <div class="something" >
-  <h2> Mission Statement: </h2>
+  <h2> Estado de la misión: </h2>
  
  
   
  <h6> 
-<p>Trying to unite the world so that everyone in GOD's eyes can see the beauty in trading with one another.</p>
-<p>This site is intended to fix the poverty, and correct the wealth distrobution system, so that all of GOD's .</p>
-<p>children have a fair chance at becoming rich, by selling and buying things internationally.</p>
+<p>Tratando de unir al mundo para que todos, a los ojos de DIOS, puedan ver la belleza de comerciar entre ellos.</p>
 </h6>
   
   
@@ -185,39 +183,39 @@
 
 
 
-# Service we provide at the northern western side
+# Servicio que brindamos en el lado norte occidental
 
  <table>
   <tr>
-    <td>Services Below</td>
+    <td>Servicios a continuación</td>
     <td>Description</td>
     <td>Price</td>
     <td>Tax 1</td>
     <td>Tax 2</td>
   </tr>
   <tr>
-    <td>Printing</td>
+    <td>Impresión</td>
     <td></td>
     <td></td>
     <td></td>
     <td></td>
   </tr>
   <tr>
-    <td>Copying</td>
+    <td>Proceso de copiar</td>
     <td></td>
     <td></td>
     <td></td>
     <td></td>
   </tr>
   <tr>
-    <td>Faxing</td>
+    <td>Envío por fax</td>
     <td></td>
     <td></td>
     <td></td>
     <td></td>
   </tr>
      <tr>
-    <td>Scanning</td>
+    <td>Exploración</td>
     <td></td>
     <td></td>
     <td></td>
@@ -231,7 +229,7 @@
 
 
 
-I love you GOD, Mom Damaris, Alidzy, and King!  I pray our businesses are so successful that you all can buy anything you want and have all the time in the world to buy and enjoy them.  Damaris, I pray we get enough money to finish all the property construction and make some good things happen for us
+¡Los amo DIOS, mamá Damaris, Alidzy y King! Oro para que nuestros negocios sean tan exitosos para que todos puedan comprar lo que quieran y tengan todo el tiempo del mundo para comprarlos y disfrutarlos. Damaris, oro para que obtengamos suficiente dinero para terminar toda la construcción de la propiedad y hacer que nos sucedan algunas cosas buenas.
 
 
 https://hawaiideveloper.github.io/nicalista/
