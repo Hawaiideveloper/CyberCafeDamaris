@@ -3,47 +3,47 @@
 
 
 
-### Products we provide at the northern Eastern side
+### Productos que proporcionamos en el lado este del norte (NicaLista)
   <table>
   <tr>
     <td>Todos los batidos naturales</td>
     <td>Description</td>
-    <td>Price</td>
-    <td> ~ USA Tax ~ </td>
-    <td> ~ NICA Tax ~ </td>
+    <td>Precio</td>
+    <td> ~ USA Impuesto ~ </td>
+    <td> ~ NICA Impuesto ~ </td>
   </tr>
   <tr>
-    <td>Strawberry smoothie</td>
-    <td> Strawberries, crushed, ice added and flavors </td>
+    <td>Batido de fresa</td>
+    <td> Fresas, trituradas, con hielo agregado y otros sabores naturales </td>
     <td>$2.00</td>
     <td>$0.00</td>
     <td>$0.00</td>
   </tr>
   <tr>
-    <td>Mango smoothie</td>
-    <td> Mangos, crushed, ice added and flavors </td>
+    <td>Batido de mango</td>
+    <td> Mangos, triturados, con hielo y sabores </td>
     <td>$2.00</td>
     <td>$0.00</td>
     <td>$0.00</td>
   </tr>
   <tr>
-    <td>Strawberry / Banana smoothie</td>
-    <td> Strawberry / Banana, crushed, ice added and flavors </td>
+    <td>Batido de fresa / plátano</td>
+    <td> Fresa / Plátano, triturada, con hielo y sabores </td>
     <td>$2.00</td>
     <td>$0.00</td>
     <td>$0.00</td>
   </tr>
      <tr>
-    <td>Raspberry </td>
-    <td> Raspberry, crushed, ice added and flavors </td>
+    <td>Frambuesa </td>
+    <td> Frambuesa, triturada, hielo añadido y sabores. </td>
     <td>$2.00</td>
     <td>$0.00</td>
     <td>$0.00</td>
   </tr>
   <tr>
-    <td>Ice Filtered Water</td>
-    <td>small cup 5 cordobas</td>
-    <td>medium cup 7 cordobas</td>
+    <td>Agua filtrada con hielo</td>
+    <td>taza pequeña de 5 córdobas</td>
+    <td>taza mediana 7 córdobas</td>
     <td>$0.00</td>
     <td>$0.00</td>
   </tr>
