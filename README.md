@@ -104,13 +104,13 @@
   </tr>
   <tr>
     <td>Coca-Cola</td>
-    <td>pequeño Vaso</td>
-    <td>large Vaso</td>
+    <td>pequeño Vaso 18</td>
+    <td>large Vaso 34</td>
   </tr>
   <tr>
     <td>Sprite</td>
-    <td>pequeño Vaso</td>
-    <td>large Vaso</td>
+    <td>pequeño Vaso 18</td>
+    <td>large Vaso 34</td>
   </tr>
   <tr>
     <td>Pepsi</td>
