@@ -39,8 +39,7 @@
     <td>Agua filtrada con hielo</td>
     <td>taza pequeña de 5 córdobas</td>
     <td>taza mediana 7 córdobas</td>
-    <td>$0.00</td>
-    <td>$0.00</td>
+  
   </tr>
 </table>
 
@@ -108,36 +107,36 @@
   </tr>
   <tr>
     <td>Coca-Cola</td>
-    <td></td>
-    <td></td>
+    <td>sm cup</td>
+    <td>large cup</td>
     <td></td>
     <td></td>
   </tr>
   <tr>
     <td>Sprite</td>
-    <td></td>
-    <td></td>
+    <td>sm cup</td>
+    <td>large cup</td>
     <td></td>
     <td></td>
   </tr>
   <tr>
     <td>Pepsi</td>
-    <td></td>
-    <td></td>
+    <td>sm cup</td>
+    <td>large cup</td>
     <td></td>
     <td></td>
   </tr>
      <tr>
     <td>Limonada</td>
-    <td></td>
-    <td></td>
+    <td>sm cup</td>
+    <td>large cup</td>
     <td></td>
     <td></td>
   </tr>
   <tr>
     <td>Jugo artificial</td>
-    <td></td>
-    <td></td>
+    <td>sm cup</td>
+    <td>large cup</td>
     <td></td>
     <td></td>
   </tr>
