@@ -23,7 +23,7 @@
     <td>Batido de mango</td>
     <td> Mangos, triturados, con hielo y sabores </td>
     <td>$2.00</td>
-    <td>$0.00</td>
+    <td>C$70.00</td>
     <td>$0.00</td>
   </tr>
   <tr>
