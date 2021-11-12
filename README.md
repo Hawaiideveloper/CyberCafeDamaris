@@ -81,8 +81,7 @@
     <td>Bandejas de pollo</td>
     <td>sándwich de pollo</td>
     <td>$8.00</td>  
-    <td>C$290</td>  
-    <td>$0.00</td>  
+    <td>C$290</td>   
   </tr>
      <tr>
     <td>Platos vegetarianos</td>
