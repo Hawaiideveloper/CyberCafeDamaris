@@ -104,28 +104,28 @@
   </tr>
   <tr>
     <td>Coca-Cola</td>
-    <td>sm cup</td>
-    <td>large cup</td>
+    <td>pequeño Vaso</td>
+    <td>large Vaso</td>
   </tr>
   <tr>
     <td>Sprite</td>
-    <td>sm cup</td>
-    <td>large cup</td>
+    <td>pequeño Vaso</td>
+    <td>large Vaso</td>
   </tr>
   <tr>
     <td>Pepsi</td>
-    <td>sm cup</td>
-    <td>large cup</td>
+    <td>pequeño Vaso</td>
+    <td>large Vaso</td>
   </tr>
      <tr>
     <td>Limonada</td>
-    <td>sm cup</td>
-    <td>large cup</td>
+    <td>pequeño Vaso</td>
+    <td>large Vaso</td>
   </tr>
   <tr>
     <td>Jugo artificial</td>
-    <td>sm cup</td>
-    <td>large cup</td>
+    <td>sm Vaso</td>
+    <td>large Vaso</td>
   </tr>
 </table>
 
