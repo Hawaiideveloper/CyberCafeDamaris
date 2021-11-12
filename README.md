@@ -48,9 +48,8 @@
   <tr>
     <td>Platos</td>
     <td>Comidas rapidas</td>
-    <td>Precio</td>
-    <td>Impuesto 1</td>
-    <td>Impuesto 2</td>
+    <td>Precio in Dollars</td>
+    <td>Precio in Cordobas</td>
   </tr>
   <tr>
     <td>Sándwich de hamburguesa de ternera con salsas y otros aderezos a elegir</td>
