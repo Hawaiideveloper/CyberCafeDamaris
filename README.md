@@ -100,43 +100,32 @@
     <td>Bebidas</td>
     <td>Soda</td>
     <td>Precio</td>
-    <td>Impuesto 1</td>
-    <td>Impuesto 2</td>
+
   </tr>
   <tr>
     <td>Coca-Cola</td>
     <td>sm cup</td>
     <td>large cup</td>
-    <td></td>
-    <td></td>
   </tr>
   <tr>
     <td>Sprite</td>
     <td>sm cup</td>
     <td>large cup</td>
-    <td></td>
-    <td></td>
   </tr>
   <tr>
     <td>Pepsi</td>
     <td>sm cup</td>
     <td>large cup</td>
-    <td></td>
-    <td></td>
   </tr>
      <tr>
     <td>Limonada</td>
     <td>sm cup</td>
     <td>large cup</td>
-    <td></td>
-    <td></td>
   </tr>
   <tr>
     <td>Jugo artificial</td>
     <td>sm cup</td>
     <td>large cup</td>
-    <td></td>
-    <td></td>
   </tr>
 </table>
 
