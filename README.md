@@ -8,8 +8,8 @@
   <tr>
     <td>Todos los batidos naturales</td>
     <td>Batido de sabores naturales</td>
-    <td>Precio</td>
-    <td> ~ USA con Impuesto ~ </td>
+    <td>Precio en Dollars</td>
+    <td>Precio en Cordobas</td>
   </tr>
   <tr>
     <td>Batido de fresa</td>
