@@ -17,7 +17,7 @@ Chaulupa:
 ---
 Empanadas:
 
-<img src="Empanadas-de-platano-maduro.png" alt="Empanadas-de-platano-maduro">
+<img src="Empanadas-de-platano-maduro.png" alt="Empanadas-de-platano-maduro" width="500" height="600">
 ---
 Philly Cheese Steak:
 
