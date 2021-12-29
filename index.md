@@ -1,16 +1,18 @@
-### Services we provide
 
+
+
+
+
+
+
+### Back Office 
 
 ## Administrative
 
-
-
+### Services we provide
 
 ## Technical
 
-
-
-## Catering
 
 
 ## Staffing
