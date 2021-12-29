@@ -4,21 +4,7 @@
 
 <div>
  
-<style>
-body {
-  background-color: white;
-}
-
-h1 {
-  color: black;
-  margin-left: 40px;
-} 
-</style>
-
-<body>
-
-<h1>Menu</h1>
-<p>Other</p>
+<h1 style="color:blue;text-align:center;">This is a heading</h1>
   </div>
 
 
