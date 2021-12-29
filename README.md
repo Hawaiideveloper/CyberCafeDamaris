@@ -3,7 +3,7 @@
 
 
 
-### Productos que proporcionamos en el lado este del norte (NicaLista)
+### Productos (NicaLista)
   <table>
   <tr>
     <td>Todos los batidos naturales</td>
@@ -155,50 +155,6 @@
 
 
 <img src="staff_photo_with_umbrellas.jpeg" alt="staff photo with umbrellas over table">
-
-
-
-# Servicio que brindamos en el lado norte occidental
-
- <table>
-  <tr>
-    <td>Servicios a continuación</td>
-    <td>Description</td>
-    <td>Price</td>
-    <td>Tax 1</td>
-    <td>Tax 2</td>
-  </tr>
-  <tr>
-    <td>Impresión</td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-  </tr>
-  <tr>
-    <td>Proceso de copiar</td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-  </tr>
-  <tr>
-    <td>Envío por fax</td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-  </tr>
-     <tr>
-    <td>Exploración</td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-  </tr>
-</table>
-
-
 
 
 
