@@ -2,7 +2,24 @@
 
 
 
+<div>
+  <head>
+<style>
+body {
+  background-color: white;
+}
 
+h1 {
+  color: black;
+  margin-left: 40px;
+} 
+</style>
+</head>
+<body>
+
+<h1>Menu</h1>
+<p>Other</p>
+  </div>
 
 
 
