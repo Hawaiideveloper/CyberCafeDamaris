@@ -11,10 +11,10 @@ Brochetas:
 <img src="brochetas.jpeg" alt="brochetas">
 
 Chaulupa:
-<img src="Empanadas-de-platano-maduro.png" alt="Empanadas">
+<img src="chalupa_pie.jpeg" alt="chalupa_pie">
 
 Empanadas:
-<img src="chalupa_pie.jpeg" alt="chalupa">
+<img src="Empanadas-de-platano-maduro.png.jpeg" alt="Empanadas-de-platano-maduro">
 
 Hamburger:
 
