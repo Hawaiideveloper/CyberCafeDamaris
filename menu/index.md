@@ -9,11 +9,11 @@
 ## Foods
 Brochetas:
 
-<img src="brochetas.jpeg" alt="brochetas">
+<img src="brochetas.jpeg" alt="brochetas" width="350" height="250">
 ---
 Chaulupa:
 
-<img src="chalupa_pie.jpeg" alt="chalupa_pie">
+<img src="chalupa_pie.jpeg" alt="chalupa_pie" width="350" height="250">
 ---
 Empanadas:
 
@@ -21,14 +21,14 @@ Empanadas:
 ---
 Philly Cheese Steak:
 
-<img src="Philly-CheeseSteak.jpg" alt="Philly-CheeseSteak">
+<img src="Philly-CheeseSteak.jpg" alt="Philly-CheeseSteak" width="350" height="250">
 ---
 Pupusas:
-<img src="pupusas.jpeg" alt="pupusas">
+<img src="pupusas.jpeg" alt="pupusas" width="350" height="250">
 ---
 Quesadillas:
 
-<img src="Quesadillas_Chicken_Avocado.jpg" alt="Quesadillas_Chicken_Avocado">
+<img src="Quesadillas_Chicken_Avocado.jpg" alt="Quesadillas_Chicken_Avocado" width="350" height="250">
 ---
 ## Drinks
 
