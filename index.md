@@ -3,7 +3,7 @@
 
 
 <div>
-  <head>
+ 
 <style>
 body {
   background-color: white;
@@ -14,7 +14,7 @@ h1 {
   margin-left: 40px;
 } 
 </style>
-</head>
+
 <body>
 
 <h1>Menu</h1>
