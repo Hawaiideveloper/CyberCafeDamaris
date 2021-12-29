@@ -9,11 +9,11 @@
 ## Foods
 Brochetas:
 
-<img src="brochetas.jpeg" alt="brochetas" style="width:500px;height:600px;>
+<img src="brochetas.jpeg" alt="brochetas">
 ---
 Chaulupa:
 
-<img src="chalupa_pie.jpeg" alt="chalupa_pie" style="width:500px;height:600px;>
+<img src="chalupa_pie.jpeg" alt="chalupa_pie">
 ---
 Empanadas:
 
