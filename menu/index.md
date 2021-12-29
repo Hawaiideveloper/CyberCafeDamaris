@@ -14,7 +14,7 @@ Chaulupa:
 <img src="chalupa_pie.jpeg" alt="chalupa_pie">
 
 Empanadas:
-<img src="Empanadas-de-platano-maduro.png.jpeg" alt="Empanadas-de-platano-maduro">
+<img src="Empanadas-de-platano-maduro.png" alt="Empanadas-de-platano-maduro">
 
 Hamburger:
 
