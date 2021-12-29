@@ -14,7 +14,7 @@ Chaulupa:
 
 
 Empanadas:
-
+<img src="Empanadas-de-platano-maduro.png" alt="Empanadas">
 
 Hamburger:
 
@@ -173,5 +173,5 @@ Smoothies:
   
   
 
-<img src="staff_photo_with_umbrellas.jpeg" alt="staff photo with umbrellas over table">
+
 
