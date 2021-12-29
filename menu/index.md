@@ -1,9 +1,9 @@
-### Menu
+# Menu
 
 
 
 
-#### Foods
+## Foods
 Brochetas:
 
 
@@ -25,7 +25,7 @@ Pupusas:
 Quesadillas:
 
 
-#### Drinks
+## Drinks
 
 Frappuccino:
 
