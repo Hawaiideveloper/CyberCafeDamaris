@@ -8,25 +8,26 @@
 
 ## Foods
 Brochetas:
-
+<img src="brochetas.jpeg" alt="brochetas">
 
 Chaulupa:
-
+<img src="Empanadas-de-platano-maduro.png" alt="Empanadas">
 
 Empanadas:
-<img src="Empanadas-de-platano-maduro.png" alt="Empanadas">
+<img src="chalupa_pie.jpeg" alt="chalupa">
 
 Hamburger:
 
 
 Philly Cheese Steak:
-
+<img src="Philly-CheeseSteak.jpg" alt="Philly-CheeseSteak">
 
 Pupusas:
-
+<img src="pupusas.jpeg" alt="pupusas">
 
 Quesadillas:
 
+<img src="Quesadillas_Chicken_Avocado.jpg" alt="Quesadillas_Chicken_Avocado">
 
 ## Drinks
 
