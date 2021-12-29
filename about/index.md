@@ -11,4 +11,19 @@ que obtengamos suficiente dinero para terminar toda la construcción de la propi
 algunas cosas buenas.
 
 
+### Back Office 
+
+## Administrative
+
+### Services we provide
+
+## Technical
+
+
+
+## Staffing
+
+
+
+
 https://hawaiideveloper.github.io/nicalista/
