@@ -158,7 +158,16 @@ And last but not least, they’re usually flavored with warm spices (think cumin
 </table>
 
 
-
+<table>
+<tr>
+    <td width="330" height="200"><img src="bagsOfhielo.jpeg" alt="bags Of hielo" width="325" height="250"> </td>
+    <td width="600"<p><h4>bags Of hielo </h4></p>
+   hielo</td>
+    <td><p></p>
+      <p></p>
+      <p>C$20</p></td>
+  </tr>
+</table>
 
   <table>
   <tr>
