@@ -116,7 +116,7 @@ And last but not least, they’re usually flavored with warm spices (think cumin
 <table>
 <tr>
     <td width="280" height="200"><img src="BlueberryBanaStarw.jpeg" alt="BlueberryBanaStarw.jpeg" width="325" height="250"> </td>
-    <td><p><h4>Blueberry Bananas Strawberries</h4></p>
+    <td width="600"><p><h4>Blueberry Bananas Strawberries</h4></p>
     Blueberries, Bananas, Strawberries</td>
     <td><p></p>
       <p></p>
@@ -127,7 +127,7 @@ And last but not least, they’re usually flavored with warm spices (think cumin
 <table>
 <tr>
     <td width="280" height="200"><img src="Batido-de-fresa.jpeg" alt="Batido-de-fresa.jpeg" width="325" height="250"> </td>
-    <td><p><h4>Batido de fresa </h4></p>
+    <td width="600"><p><h4>Batido de fresa </h4></p>
     Strawberries</td>
     <td><p></p>
       <p></p>
