@@ -91,13 +91,13 @@ Smoothies:
 ### Productos (NicaLista)
   <table>
   <tr>
-    <td><img src="BlueberryBanaStarw.jpeg" alt="BlueBerry Bannana and Strawberry smoothies" width="250" height="250"> </td>
+    <td><img src="BlueberryBanaStarw.jpeg" alt="BlueBerry Bannana and Strawberry smoothies" width="250" height="200"> </td>
     <td>Todos los batidos naturales</td>
     <td>Batido de sabores naturales </td>
     <td>Precio en Cordobas</td>
   </tr>
   <tr>
-    <td><img src="Batido-de-fresa.jpeg" alt=" Strawberry smoothies" width="250" height="250"> </td>
+    <td><img src="Batido-de-fresa.jpeg" alt=" Strawberry smoothies" width="250" height="200"> </td>
     <td>Batido de fresa</td>
     <td> Fresas, trituradas, con hielo agregado y otros sabores naturales </td>
     <td>C$70.00</td>
