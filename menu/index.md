@@ -18,10 +18,11 @@
     <p>Steak</p>
     <p>Shrimp</p>
     </td>
-    <td>C$165</td>
+    <td>C$165
     <p>Chicken...C$165</p>
-    <p>Steak</p>
-    <p>Shrimp</p>
+    <p>Steak... C$215</p>
+    <p>Shrimp...C$200</p>
+    </td>
   </tr>
 </table>
 
