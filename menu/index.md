@@ -147,8 +147,6 @@ And last but not least, they’re usually flavored with warm spices (think cumin
   </tr>
 </table>
 
-
--->
 <table>
 <tr>
     <td width="330" height="200"><img src="RaspberrySmoothies.jpeg" alt="Batido-de-fresa.jpeg" width="325" height="250"> </td>
