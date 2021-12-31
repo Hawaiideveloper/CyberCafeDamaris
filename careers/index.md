@@ -19,3 +19,6 @@
 ###### [Table Setters]()  
 
 #####  [Waiters / Waitresses]()
+
+
+<img src ="staff_photo_with_umbrellas.jpeg">
