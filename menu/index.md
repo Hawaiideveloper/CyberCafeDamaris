@@ -10,7 +10,7 @@
 
 <table>
  <tr>
-    <td><img src="brochetas.jpeg" alt="brochetas" width="350" height="250"></td>
+    <td width="350" height="250"><img src="brochetas.jpeg" alt="brochetas" width="350" height="250"></td>
     <td>
     <p><h4>Brochetas</h4></p>
     <p> Choices of
