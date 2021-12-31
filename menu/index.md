@@ -49,7 +49,7 @@
 <tr>
     <td>Pupusas:</td>
     <td><img src="pupusas.jpeg" alt="pupusas" width="350" height="250"> </td>
-    <td>a Delicious Philly Cheese Steak:  </td>
+    <td>a Delicious pupusas:  </td>
     <td>Precio en Cordobas</td>
   </tr>
 </table>
@@ -66,7 +66,7 @@
 
 <table>
 <tr>
-    <td>Quesadillas:  </td>
+    <td>Burritos:  </td>
     <td><img src="Burritos-huevo-salchicha-papa-queso.jpg" alt="Quesadillas_Chicken_Avocado" width="300" height="250"> </td>
     <td>a Delicious Quesadillas: </td>
     <td>Precio en Cordobas</td>
