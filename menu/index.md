@@ -68,8 +68,8 @@
 <tr>
     <td>Burritos:  </td>
     <td><img src="Burritos-huevo-salchicha-papa-queso.jpg" alt="Quesadillas_Chicken_Avocado" width="300" height="250"> </td>
-    <td>a Delicious Quesadillas: </td>
-    <td>Precio en Cordobas</td>
+    <td>a Delicious Burritos: </td>
+    <td>C$85</td>
   </tr>
 </table>
  
