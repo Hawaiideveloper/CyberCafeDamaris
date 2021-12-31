@@ -146,6 +146,19 @@ And last but not least, they’re usually flavored with warm spices (think cumin
   </tr>
 </table>
 
+<table>
+<tr>
+    <td width="330" height="200"><img src="RaspberrySmoothies.jpeg" alt="Batido-de-fresa.jpeg" width="325" height="250"> </td>
+    <td width="600"<p><h4>Batido de Raspberry </h4></p>
+   Raspberry_smoothies</td>
+    <td><p></p>
+      <p></p>
+      <p>C$75</p></td>
+  </tr>
+</table>
+
+
+
 
   <table>
   <tr>
