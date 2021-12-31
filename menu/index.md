@@ -34,7 +34,7 @@
 <table>
 <tr>
     <td width="350" height="250"><img src="chalupa_pie.jpeg" alt="chalupa_pie" width="350" height="250"></td>
-    <td>Sour Cream, Salsa, cheese, lettuce, and choices of meat.</td>
+    <td>Sour Cream, Salsa, cheese, lettuce, shells can be made vegan or with milk and choices of meat or meat substitute.</td>
     <td> 
     <p>Chicken...C$100</p>
     <p>Steak... C$130</p>
