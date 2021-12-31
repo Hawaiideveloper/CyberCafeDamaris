@@ -94,7 +94,7 @@ And last but not least, they’re usually flavored with warm spices (think cumin
       <p>Steak... C$130</p>
       <p>Beef... C$80</p></td>
   </tr>
-</table>  
+</table>
 ---
 
 
@@ -108,12 +108,8 @@ And last but not least, they’re usually flavored with warm spices (think cumin
       <p>Beef... C$80</p></td>
   </tr>
 </table>
-
 ---
----
-
-
----  
+  
 ## Drinks
 
 
