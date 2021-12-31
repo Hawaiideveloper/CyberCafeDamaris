@@ -96,17 +96,17 @@ And last but not least, they’re usually flavored with warm spices (think cumin
 </table>
  
 
+
 <table>
 <tr>
-    <td>Burritos:  </td>
-    <td><img src="Burritos-huevo-salchicha-papa-queso.jpg" alt="Quesadillas_Chicken_Avocado" width="300" height="250"> </td>
-    <td>a Delicious Burritos: </td>
-    <td>C$85</td>
+    <td width="280" height="200"><img src="Burritos-huevo-salchicha-papa-queso.jpg" alt="Burritos" width="325" height="250"> </td>
+    <td><p><h4>Burritos:</h4></p>
+    tomato, green bell pepper, diced, small white onion, diced, mozzarella cheese, refried bean, your choice of meats like: chicken, steak, or pork</td>
+    <td><p>Chicken...C$110</p>
+      <p>Steak... C$130</p>
+      <p>Beef... C$80</p></td>
   </tr>
 </table>
- 
-
-
 
 
 
