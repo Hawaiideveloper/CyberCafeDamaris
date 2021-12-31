@@ -18,7 +18,10 @@
     <p>Steak</p>
     <p>Shrimp</p>
     </td>
-    <td>Precio en Cordobas</td>
+    <td>C$165</td>
+    <p>Chicken...C$165</p>
+    <p>Steak</p>
+    <p>Shrimp</p>
   </tr>
 </table>
 
