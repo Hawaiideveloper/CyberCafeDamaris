@@ -48,7 +48,7 @@
 <table>
 <tr>
     <td>Pupusas:</td>
-    <td><img src="pupusas.jpeg" alt="pupusas" width="275" height="250"> </td>
+    <td><img src="pupusas.jpeg" alt="pupusas" width="275" height="225"> </td>
     <td>a Delicious pupusas:  </td>
     <td>Precio en Cordobas</td>
   </tr>
