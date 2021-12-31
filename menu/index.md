@@ -65,7 +65,7 @@ And last but not least, they’re usually flavored with warm spices (think cumin
 <table>
 <tr>
        <td width="275" height="250"><img src="Philly-CheeseSteak.jpg" alt="Philly-CheeseSteak"  </td>
-       <td><h4>Philly Cheese Steak: </h4>
+       <td><p><h4>Philly Cheese Steak: </h4></p>
     a Delicious Philly Cheese Steak made the way they do you Philidelphia served with your choice of chicken, steak, choices of cheeses like: Provolone, Swiss, American, or cheesewiz.  Or ask for the super philly which has green peppers, oninions, and mushrooms  </td>
     <td> <p>Chicken...C$110</p>
       <p>Steak... C$130</p></td>
@@ -74,10 +74,12 @@ And last but not least, they’re usually flavored with warm spices (think cumin
   
 <table>
 <tr>
-    <td>Pupusas:</td>
-    <td><img src="pupusas.jpeg" alt="pupusas" width="275" height="225"> </td>
-    <td>a Delicious pupusas:  </td>
-    <td>Precio en Cordobas</td>
+     <td><img src="pupusas.jpeg" alt="pupusas" width="275" height="225"> </td>
+    <td>
+    <p><h4>Pupusas:</h4></p>
+    tomato, green bell pepper, diced, small white onion, diced, mozzarella cheese, refried bean, your choice of meats like: chicken, steak, pork, or fish
+      </td>
+    <td>C$70</td>
   </tr>
 </table>
 
