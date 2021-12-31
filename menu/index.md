@@ -86,10 +86,12 @@ And last but not least, they’re usually flavored with warm spices (think cumin
 
 <table>
 <tr>
-    <td>Quesadillas:  </td>
-    <td><img src="Quesadillas_Chicken_Avocado.jpg" alt="Quesadillas_Chicken_Avocado" width="275" height="250"> </td>
-    <td>a Delicious Quesadillas: </td>
-    <td>Precio en Cordobas</td>
+    <td width="275" height="250"><img src="Quesadillas_Chicken_Avocado.jpg" alt="Quesadillas_Chicken_Avocado" > </td>
+    <td><p><h4>Quesadillas:</h4></p>
+    tomato, green bell pepper, diced, small white onion, diced, mozzarella cheese, refried bean, your choice of meats like: chicken, steak, or pork</td>
+    <td><p>Chicken...C$110</p>
+      <p>Steak... C$130</p>
+      <p>Beef... C$80</p></td>
   </tr>
 </table>
  
