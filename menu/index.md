@@ -82,13 +82,9 @@
 ---  
 ## Drinks
 
-Frappuccino:
 
-Juice:
+### Smoothies:
 
-Smoothies:
-
-### Productos (NicaLista)
   <table>
   <tr>
     <td><img src="BlueberryBanaStarw.jpeg" alt="BlueBerry Bannana and Strawberry smoothies" width="250" height="200"> </td>
