@@ -150,7 +150,7 @@ And last but not least, they’re usually flavored with warm spices (think cumin
 <table>
 <tr>
     <td width="330" height="200"><img src="RaspberrySmoothies.jpeg" alt="Batido-de-fresa.jpeg" width="325" height="250"> </td>
-    <td width="600"<p><h4>Batido de Raspberry </h4></p>
+    <td width="600"><p><h4>Batido de Raspberry </h4></p>
    Raspberry_smoothies</td>
     <td><p></p>
       <p></p>
@@ -162,7 +162,7 @@ And last but not least, they’re usually flavored with warm spices (think cumin
 <table>
 <tr>
     <td width="330" height="200"><img src="bagsOfhielo.png" alt="bags Of hielo" width="325" height="250"> </td>
-    <td width="600"<p><h4>bags Of hielo </h4></p>
+    <td width="600"><p><h4>bags Of hielo </h4></p>
    hielo</td>
     <td><p></p>
       <p></p>
