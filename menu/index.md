@@ -45,24 +45,25 @@
   </tr>
 </table>
 
----
 <table>
-<tr>
-     <td width="350" height="250"><img src="Empanadas-de-platano-maduro.png" alt="Empanadas-de-platano-maduro" width="275" height="250">
-     </td>
-       <td><p><h4>Empanadas:</h4></p> 
-       simple vegetables—think corn, diced potatoes or carrots.
+ <tr>
+    <td width="350" height="250"><img src="Empanadas-de-platano-maduro.png" alt="Empanadas" width="350" height="250"></td>
+    <td>
+    <p><h4>Empanadas</h4></p>
+        <p> 
+   simple vegetables—think corn, diced potatoes or carrots.
 And last but not least, they’re usually flavored with warm spices (think cumin, or even cinnamon) and / or chili peppers.
-        
-        <td>
-       <p>Chicken...C$100</p>
-      <p>Steak... C$130</p>
-      <p>Shrimp...C$170</p>
-            </td>
-       </td>
-    
+    choices of meat
+        </p>
+    </td>
+    <td>
+    <p>Chicken...C$165</p>
+    <p>Steak... C$215</p>
+    <p>Shrimp...C$200</p>
+    </td>
   </tr>
 </table>
+
 ---
 <table>
 <tr>
