@@ -30,7 +30,7 @@
 <table>
 <tr>
     <td>Empanadas:</td>
-    <td><img src="Empanadas-de-platano-maduro.png" alt="Empanadas-de-platano-maduro" width="350" height="250"></td>
+    <td><img src="Empanadas-de-platano-maduro.png" alt="Empanadas-de-platano-maduro" width="275" height="250"></td>
     <td>a Delicious Empanadas::</td>
     <td>Precio en Cordobas</td>
   </tr>
@@ -39,7 +39,7 @@
 <table>
 <tr>
     <td>Philly Cheese Steak:  </td>
-    <td><img src="Philly-CheeseSteak.jpg" alt="Philly-CheeseSteak" width="350" height="250"> </td>
+    <td><img src="Philly-CheeseSteak.jpg" alt="Philly-CheeseSteak" width="275" height="250"> </td>
     <td>a Delicious Philly Cheese Steak:  </td>
     <td>Precio en Cordobas</td>
   </tr>
@@ -48,7 +48,7 @@
 <table>
 <tr>
     <td>Pupusas:</td>
-    <td><img src="pupusas.jpeg" alt="pupusas" width="350" height="250"> </td>
+    <td><img src="pupusas.jpeg" alt="pupusas" width="275" height="250"> </td>
     <td>a Delicious pupusas:  </td>
     <td>Precio en Cordobas</td>
   </tr>
