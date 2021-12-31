@@ -127,10 +127,7 @@ And last but not least, they’re usually flavored with warm spices (think cumin
 <table>
 <tr>
     <td width="330" height="200"><img src="Batido-de-fresa.jpeg" alt="Batido-de-fresa.jpeg" width="325" height="250"> </td>
-    <td width="600"><p><h4>Batido de fresa </h4></p>
-    Strawberries</td>
-    <td><p></p>
-      <p></p>
+    <td width="600"><p><h4>Batido de fresa </h4></p> Strawberries</td>
       <p>C$60</p></td>
   </tr>
 </table>
