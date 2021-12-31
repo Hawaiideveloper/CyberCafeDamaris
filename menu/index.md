@@ -169,46 +169,7 @@ And last but not least, they’re usually flavored with warm spices (think cumin
   </tr>
 </table>
 
-  <table>
-  <tr>
-    <td><img src="BlueberryBanaStarw.jpeg" alt="BlueBerry Bannana and Strawberry smoothies" width="250" height="200"> </td>
-    <td>Todos los batidos naturales</td>
-    <td>Batido de sabores naturales </td>
-    <td>Precio en Cordobas</td>
-  </tr>
-  <tr>
-    <td><img src="Batido-de-fresa.jpeg" alt=" Strawberry smoothies" width="250" height="200"> </td>
-    <td>Batido de fresa</td>
-    <td> Fresas, trituradas, con hielo agregado y otros sabores naturales </td>
-    <td>C$70.00</td>
-  </tr>
-  <tr>
-    <td>Batido de mango</td>
-    <td> Mangos, triturados, con hielo y sabores </td>
-    <td>$2.00</td>
-    <td>C$70.00 </td>
-  </tr>
-  <tr>
-    <td>Batido de fresa / plátano</td>
-    <td> Fresa / Plátano, triturada, con hielo y sabores </td>
-    <td>$2.00</td>
-    <td>C$70.00</td>
-  </tr>
-     <tr>
-    <td>Frambuesa </td>
-    <td> Frambuesa, triturada, hielo añadido y sabores. </td>
-    <td>$2.00</td>
-    <td>C$70.00</td>
-  </tr>
-  <tr>
-    <td>Agua filtrada con hielo</td>
-    <td>taza pequeña de 5 córdobas</td>
-    <td>taza mediana 7 córdobas</td>
   
-  </tr>
-</table>
-
-
   <table>
   <tr>
     <td>Platos</td>
