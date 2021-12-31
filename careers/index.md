@@ -8,10 +8,6 @@
 
 
 
-
-
-###### [Cashier]()  
-
 ###### [Chefs]()   
 
 ###### [Delivery / Couriers]()  
@@ -19,3 +15,7 @@
 ###### [Professional Shopper]() 
 
 ###### [Sales Staff]() 
+
+###### [Table Setters]()  
+
+#####  [Waiters / Waitresses]
