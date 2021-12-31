@@ -74,7 +74,7 @@ And last but not least, they’re usually flavored with warm spices (think cumin
   
 <table>
 <tr>
-     <td width="275" height="225"><img src="pupusas.jpeg" alt="pupusas" > </td>
+     <td width="275" height="255"><img src="pupusas.jpeg" alt="pupusas" > </td>
     <td>
     <p><h4>Pupusas:</h4></p>
     tomato, green bell pepper, diced, small white onion, diced, mozzarella cheese, refried bean, your choice of meats like: chicken, steak, pork, or fish
