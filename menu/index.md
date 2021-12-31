@@ -57,7 +57,7 @@
 <table>
 <tr>
     <td>Quesadillas:  </td>
-    <td><<img src="Quesadillas_Chicken_Avocado.jpg" alt="Quesadillas_Chicken_Avocado" width="300" height="250"> </td>
+    <td><img src="Quesadillas_Chicken_Avocado.jpg" alt="Quesadillas_Chicken_Avocado" width="300" height="250"> </td>
     <td>a Delicious Quesadillas: </td>
     <td>Precio en Cordobas</td>
   </tr>
@@ -77,15 +77,15 @@ Smoothies:
 ### Productos (NicaLista)
   <table>
   <tr>
+    <td><img src="BlueberryBanaStarw.jpeg" alt="BlueBerry Bannana and Strawberry smoothies" width="300" height="250"> </td>
     <td>Todos los batidos naturales</td>
     <td>Batido de sabores naturales </td>
-    <td>Precio en Dollars</td>
     <td>Precio en Cordobas</td>
   </tr>
   <tr>
+    <td><img src="Batido-de-fresa.jpeg" alt=" Strawberry smoothies" width="300" height="250"> </td>
     <td>Batido de fresa</td>
     <td> Fresas, trituradas, con hielo agregado y otros sabores naturales </td>
-    <td>$2.00</td>
     <td>C$70.00</td>
   </tr>
   <tr>
