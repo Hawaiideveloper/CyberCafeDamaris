@@ -58,7 +58,7 @@ And last but not least, they’re usually flavored with warm spices (think cumin
       <p>Shrimp...C$170</p>
             </td>
        </td>
-    <td>Precio en Cordobas</td>
+    
   </tr>
 </table>
 
@@ -67,7 +67,8 @@ And last but not least, they’re usually flavored with warm spices (think cumin
        <td width="275" height="250">><img src="Philly-CheeseSteak.jpg" alt="Philly-CheeseSteak"  </td>
        <td><h4>Philly Cheese Steak: </h4>
     a Delicious Philly Cheese Steak made the way they do you Philidelphia served with your choice of chicken, steak, choices of cheeses like: Provolone, Swiss, American, or cheesewiz.  Or ask for the super philly which has green peppers, oninions, and mushrooms  </td>
-    <td>C$150</td>
+    <td> <p>Chicken...C$110</p>
+      <p>Steak... C$130</p></td>
   </tr>
 </table>
   
