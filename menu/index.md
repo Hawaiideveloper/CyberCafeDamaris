@@ -57,7 +57,7 @@
 <table>
 <tr>
     <td>Quesadillas:  </td>
-    <td><<img src="Quesadillas_Chicken_Avocado.jpg" alt="Quesadillas_Chicken_Avocado" width="350" height="250"> </td>
+    <td><<img src="Quesadillas_Chicken_Avocado.jpg" alt="Quesadillas_Chicken_Avocado" width="300" height="250"> </td>
     <td>a Delicious Quesadillas: </td>
     <td>Precio en Cordobas</td>
   </tr>
