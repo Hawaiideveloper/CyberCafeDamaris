@@ -3,20 +3,19 @@
 
 
 
-###### Now Hiring 
+## Now Hiring 
 
-###### [Sales Staff]() 
 
-###### [Professional Shopper]() 
 
-###### [Bookkeeper]()  
 
-###### [Cook]()  
 
-###### [Web Designers]()  
 
-###### [Business Developer]()  
+###### [Cashier]()  
+
+###### [Chefs]()   
 
 ###### [Delivery / Couriers]()  
 
-###### [Laborers]()  
+###### [Professional Shopper]() 
+
+###### [Sales Staff]() 
