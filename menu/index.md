@@ -45,7 +45,7 @@
   </tr>
 </table>
 
-
+---
 <table>
 <tr>
      <td width="350" height="250"><img src="Empanadas-de-platano-maduro.png" alt="Empanadas-de-platano-maduro" width="275" height="250"></td>
