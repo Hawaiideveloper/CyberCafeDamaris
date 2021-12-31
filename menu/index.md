@@ -65,8 +65,8 @@ And last but not least, they’re usually flavored with warm spices (think cumin
 <table>
 <tr>
        <td width="275" height="250">><img src="Philly-CheeseSteak.jpg" alt="Philly-CheeseSteak"  </td>
-       <td><h4>Philly Cheese Steak: </h4> </td>
-    <td>a Delicious Philly Cheese Steak made the way they do you Philidelphia served with your choice of chicken, steak, choices of cheeses like: Provolone, Swiss, American, or cheesewiz.  Or ask for the super philly which has green peppers, oninions, and mushrooms  </td>
+       <td><h4>Philly Cheese Steak: </h4>
+    a Delicious Philly Cheese Steak made the way they do you Philidelphia served with your choice of chicken, steak, choices of cheeses like: Provolone, Swiss, American, or cheesewiz.  Or ask for the super philly which has green peppers, oninions, and mushrooms  </td>
     <td>C$150</td>
   </tr>
 </table>
