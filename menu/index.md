@@ -14,11 +14,8 @@
     <td>
     <p><h4>Brochetas</h4></p>
     <p>Choices of:</p>
-    <p>Chicken</p>
-    <p>Steak</p>
-    <p>Shrimp</p>
     </td>
-    <td>C$165
+    <td>
     <p>Chicken...C$165</p>
     <p>Steak... C$215</p>
     <p>Shrimp...C$200</p>
