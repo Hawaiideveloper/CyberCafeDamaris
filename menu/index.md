@@ -7,7 +7,7 @@
 
 
 ## Foods
-Brochetas:
+
 <table>
  <tr>
     <td>brochetas</td>
@@ -17,22 +17,54 @@ Brochetas:
   </tr>
 </table>
 
-<img src="brochetas.jpeg" alt="brochetas" width="350" height="250">
----
-Chaulupa:
-<img src="chalupa_pie.jpeg" alt="chalupa_pie" width="350" height="250">
----
-Empanadas:
-<img src="Empanadas-de-platano-maduro.png" alt="Empanadas-de-platano-maduro" width="350" height="250">  
----  
-Philly Cheese Steak:  
-<img src="Philly-CheeseSteak.jpg" alt="Philly-CheeseSteak" width="350" height="250">  
----  
-Pupusas:  
-<img src="pupusas.jpeg" alt="pupusas" width="350" height="250">  
----  
-Quesadillas:  
-<img src="Quesadillas_Chicken_Avocado.jpg" alt="Quesadillas_Chicken_Avocado" width="350" height="250">  
+<table>
+<tr>
+    <td>Chaulupa:</td>
+    <td><img src="chalupa_pie.jpeg" alt="chalupa_pie" width="350" height="250"></td>
+    <td>a Delicious chalupa:</td>
+    <td>Precio en Cordobas</td>
+  </tr>
+</table>
+
+
+<table>
+<tr>
+    <td>Empanadas:</td>
+    <td><img src="Empanadas-de-platano-maduro.png" alt="Empanadas-de-platano-maduro" width="350" height="250"></td>
+    <td>a Delicious Empanadas::</td>
+    <td>Precio en Cordobas</td>
+  </tr>
+</table>
+
+<table>
+<tr>
+    <td>Philly Cheese Steak:  </td>
+    <td><img src="Philly-CheeseSteak.jpg" alt="Philly-CheeseSteak" width="350" height="250"> </td>
+    <td>a Delicious Philly Cheese Steak:  </td>
+    <td>Precio en Cordobas</td>
+  </tr>
+</table>
+  
+<table>
+<tr>
+    <td>Pupusas:</td>
+    <td><img src="pupusas.jpeg" alt="pupusas" width="350" height="250"> </td>
+    <td>a Delicious Philly Cheese Steak:  </td>
+    <td>Precio en Cordobas</td>
+  </tr>
+</table>
+
+<table>
+<tr>
+    <td>Quesadillas:  </td>
+    <td><<img src="Quesadillas_Chicken_Avocado.jpg" alt="Quesadillas_Chicken_Avocado" width="350" height="250"> </td>
+    <td>a Delicious Quesadillas: </td>
+    <td>Precio en Cordobas</td>
+  </tr>
+</table>
+ 
+
+ 
 ---  
 ## Drinks
 
