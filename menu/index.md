@@ -13,7 +13,12 @@
     <td><img src="brochetas.jpeg" alt="brochetas" width="350" height="250"></td>
     <td>
     <p><h4>Brochetas</h4></p>
-    <p>Choices of:</p>
+    <p> Choices of
+RED BELL PEPPER
+GREEN BELL PEPPER
+YELLOW BELL PEPPER
+WHITE OR RED ONIONS
+CHERRY PEPPERS</p>
     </td>
     <td>
     <p>Chicken...C$165</p>
