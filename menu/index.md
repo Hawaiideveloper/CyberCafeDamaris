@@ -8,6 +8,14 @@
 
 ## Foods
 Brochetas:
+<table>
+ <tr>
+    <td>brochetas</td>
+    <td><img src="brochetas.jpeg" alt="brochetas" width="350" height="250"></td>
+    <td>a Delicious Brochetas:</td>
+    <td>Precio en Cordobas</td>
+  </tr>
+</table>
 
 <img src="brochetas.jpeg" alt="brochetas" width="350" height="250">
 ---
@@ -42,7 +50,7 @@ Smoothies:
   <table>
   <tr>
     <td>Todos los batidos naturales</td>
-    <td>Batido de sabores naturales</td>
+    <td>Batido de sabores naturales </td>
     <td>Precio en Dollars</td>
     <td>Precio en Cordobas</td>
   </tr>
