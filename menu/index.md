@@ -132,17 +132,19 @@ And last but not least, they’re usually flavored with warm spices (think cumin
   </tr>
 </table>
 
+
+
+
 <table>
 <tr>
-    <td width="330" height="200"><img src="mango_smoothies.jpeg" alt="Batido-de-fresa.jpeg" width="325" height="250"> </td>
-    <td width="600"<p><h4>Batido de fresa </h4></p>
-   mango_smoothies</td>
-    <td><p></p>
-      <p></p>
+    <td width="330" height="200"><img src="mango_smoothies.jpeg" alt="Batido de Mango.jpeg" width="325" height="250"> </td>
+    <td width="600"><p><h4>Batido de Mango </h4></p>mango_smoothies</td>
       <p>C$60</p></td>
   </tr>
 </table>
 
+
+-->
 <table>
 <tr>
     <td width="330" height="200"><img src="RaspberrySmoothies.jpeg" alt="Batido-de-fresa.jpeg" width="325" height="250"> </td>
