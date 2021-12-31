@@ -48,9 +48,16 @@
 
 <table>
 <tr>
-    <td>Empanadas:</td>
-    <td><img src="Empanadas-de-platano-maduro.png" alt="Empanadas-de-platano-maduro" width="275" height="250"></td>
-    <td>a Delicious Empanadas::</td>
+     <td width="350" height="250"><img src="Empanadas-de-platano-maduro.png" alt="Empanadas-de-platano-maduro" width="275" height="250"></td>
+       <td>a Delicious Empanadas: simple vegetables—think corn, diced potatoes or carrots.
+And last but not least, they’re usually flavored with warm spices (think cumin, or even cinnamon) and / or chili peppers.
+        </td>
+        <td>
+       <p>Chicken...C$100</p>
+      <p>Steak... C$130</p>
+      <p>Shrimp...C$170</p>
+            </td>
+       </td>
     <td>Precio en Cordobas</td>
   </tr>
 </table>
