@@ -7,7 +7,7 @@
 
 
 ## Foods
-
+---
 <table>
  <tr>
     <td width="350" height="250"><img src="brochetas.jpeg" alt="brochetas" width="350" height="250"></td>
@@ -30,7 +30,7 @@
     </td>
   </tr>
 </table>
-
+---
 <table>
 <tr>
     <td width="350" height="250"><img src="chalupa_pie.jpeg" alt="chalupa_pie" width="350" height="250"></td>
@@ -61,7 +61,7 @@ And last but not least, they’re usually flavored with warm spices (think cumin
     
   </tr>
 </table>
-
+---
 <table>
 <tr>
        <td width="275" height="250"><img src="Philly-CheeseSteak.jpg" alt="Philly-CheeseSteak">  </td>
@@ -71,7 +71,8 @@ And last but not least, they’re usually flavored with warm spices (think cumin
       <p>Steak... C$130</p></td>
   </tr>
 </table>
-  
+
+---
 <table>
 <tr>
      <td width="275" height="255"><img src="pupusas.jpeg" alt="pupusas" > </td>
@@ -83,7 +84,7 @@ And last but not least, they’re usually flavored with warm spices (think cumin
       <p>Steak... C$130</p></td>
   </tr>
 </table>
-
+---
 <table>
 <tr>
     <td width="280" height="200"><img src="Quesadillas_Chicken_Avocado.jpg" alt="Quesadillas_Chicken_Avocado" width="325" height="250"> </td>
@@ -93,8 +94,8 @@ And last but not least, they’re usually flavored with warm spices (think cumin
       <p>Steak... C$130</p>
       <p>Beef... C$80</p></td>
   </tr>
-</table>
- 
+</table>  
+---
 
 
 <table>
@@ -108,7 +109,8 @@ And last but not least, they’re usually flavored with warm spices (think cumin
   </tr>
 </table>
 
-
+---
+---
 
 
 ---  
