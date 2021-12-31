@@ -13,12 +13,15 @@
     <td width="350" height="250"><img src="brochetas.jpeg" alt="brochetas" width="350" height="250"></td>
     <td>
     <p><h4>Brochetas</h4></p>
-    <p> Choices of
-RED BELL PEPPER
-GREEN BELL PEPPER
-YELLOW BELL PEPPER
-WHITE OR RED ONIONS
-CHERRY PEPPERS</p>
+        <p> 
+    Choices of
+    RED BELL PEPPER
+    GREEN BELL PEPPER
+    YELLOW BELL PEPPER
+    WHITE OR RED ONIONS
+    CHERRY PEPPERS
+    choices of meat
+        </p>
     </td>
     <td>
     <p>Chicken...C$165</p>
@@ -30,10 +33,13 @@ CHERRY PEPPERS</p>
 
 <table>
 <tr>
-    <td>Chaulupa:</td>
-    <td><img src="chalupa_pie.jpeg" alt="chalupa_pie" width="350" height="250"></td>
-    <td>a Delicious chalupa:</td>
-    <td>Precio en Cordobas</td>
+    <td width="350" height="250"><img src="chalupa_pie.jpeg" alt="chalupa_pie" width="350" height="250"></td>
+    <td>Sour Cream, Salsa, cheese, lettuce, and choices of meat.</td>
+    <td> 
+    <p>Chicken...C$100</p>
+    <p>Steak... C$130</p>
+    <p>Shrimp...C$170</p>
+    </td>
   </tr>
 </table>
 
