@@ -12,7 +12,12 @@
  <tr>
     <td>brochetas</td>
     <td><img src="brochetas.jpeg" alt="brochetas" width="350" height="250"></td>
-    <td>a Delicious Brochetas:</td>
+    <td>
+    <p>a Delicious Brochetas:</p>
+    <p>Choices are:</p>
+    <p>Chicken</p>
+    <p>Steak</p>
+    </td>
     <td>Precio en Cordobas</td>
   </tr>
 </table>
