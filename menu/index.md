@@ -49,7 +49,7 @@
 <table>
 <tr>
      <td width="350" height="250"><img src="Empanadas-de-platano-maduro.png" alt="Empanadas-de-platano-maduro" width="275" height="250"></td>
-       <td>a Delicious Empanadas: simple vegetables—think corn, diced potatoes or carrots.
+       <td><p><h4>Empanadas:</h4></p> simple vegetables—think corn, diced potatoes or carrots.
 And last but not least, they’re usually flavored with warm spices (think cumin, or even cinnamon) and / or chili peppers.
         </td>
         <td>
