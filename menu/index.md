@@ -86,7 +86,7 @@ And last but not least, they’re usually flavored with warm spices (think cumin
 
 <table>
 <tr>
-    <td width="365" height="180"><img src="Quesadillas_Chicken_Avocado.jpg" alt="Quesadillas_Chicken_Avocado" > </td>
+    <td width="365" height="180"><img src="Quesadillas_Chicken_Avocado.jpg" alt="Quesadillas_Chicken_Avocado" width="350" height="250"> </td>
     <td><p><h4>Quesadillas:</h4></p>
     tomato, green bell pepper, diced, small white onion, diced, mozzarella cheese, refried bean, your choice of meats like: chicken, steak, or pork</td>
     <td><p>Chicken...C$110</p>
