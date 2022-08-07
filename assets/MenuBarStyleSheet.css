@@ -1,0 +1,57 @@
+ul {
+  margin: 0;
+  padding: 0;
+  width: 100px;
+  list-style: none;
+  position: relative;
+}
+
+li {
+  padding-right: 5px
+}
+
+ul li a {
+  display: block;
+  text-decoration: none;
+}
+
+ul li a:hover {
+  background-color: rgb(3, 0, 0);
+}
+
+span {
+  visibility: hidden;
+  position: absolute;
+  width: 5px;
+  height: 120px;
+  right: 0;
+  top: 0
+}
+
+span.a {
+  background: rgb(248, 2, 2);
+}
+
+span.b {
+  background: rgb(250, 171, 2);
+}
+
+span.c {
+  background: rgb(255, 251, 0);
+}
+
+span.d {
+  background: rgb(123, 255, 0);
+}
+
+span.e {
+  background: rgb(3, 19, 250);
+}
+
+span.f {
+  background: rgb(243, 2, 231);
+}
+
+ul li a:hover span {
+  visibility: visible
+}
