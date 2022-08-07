@@ -10,27 +10,63 @@
   <script src="https://code.jquery.com/jquery-1.10.2.js"></script>
 </head>
 <link href="./assets/pageLayout.css" rel="stylesheet">
+<link href="./assets/MenuBarStyleSheet.css" rel="stylesheet">
+
+<style> 
+  .container{
+      width: 200px;
+      height: 200px;
+      position: relative;
+      margin: 20px;
+  }
+  .box{
+      width: 100%;
+      height: 100%;            
+      position: absolute;
+      top: 0;
+      left: 0;
+      opacity: 0.8;  /* for demo purpose  */
+  }
+  .stack-top{
+      z-index: 9;
+      margin: 20px; /* for demo purpose  */
+  }
+</style>
+
+
 
 <body>
-
-  <header>
-  <link href="./assets/MenuBarStyleSheet.css" rel="stylesheet">
-  <img src="./logos/Logo.jpg" alt="Importaciones / Exportaciones, Copias, Faxes USA, Impresoras, Servicios TI Imports / Exports, Copies, USA Faxes, Printers, IT Services">
-  <h1> Cyber Damaris </h1>
-</header>
 <!--Navigation bar-->
-<nav>
-<div id="nav-placeholder">
-<ul>
-  <li><a href='#'>About<span class="a"></span></a></li>
-  <li><a href='#'>Contact Us<span class="b"></span></a></li>
-  <li><a href='#'>Products<span class="c"></span></a></li>
-  <li><a href='#'>Services<span class="d"></span></a></li>
-</ul>
-</nav>
-</div>
 
-<!--end of Navigation bar-->
+
+
+<nav>
+  <div>
+    <img src="./logos/logoMain.png" width="400" 
+  height="500" alt="Importaciones / Exportaciones, Copias, Faxes USA, Impresoras, Servicios TI Imports / Exports, Copies, USA Faxes, Printers, IT Services">
+</div>
+  <div id="nav-placeholder">
+  <ul>
+    <li><a href='#'>About<span class="a"></span></a></li>
+    <li><a href='#'>Contact Us<span class="b"></span></a></li>
+    <li><a href='#'>Products<span class="c"></span></a></li>
+    <li><a href='#'>Services<span class="d"></span></a></li>
+  </ul>
+
+  
+  </nav>
+  </div>
+  
+  <!--end of Navigation bar-->
+  <header>
+    <div class="container">
+      <div class="box" style="background: red;"></div>
+      <div class="box stack-top" style="background: blue;"></div>
+      <div class="box stack-top" style="margin-top: blue;"></div>
+  </div>
+  
+  </header>
+
 
 <article>
   <div id="myCarousel" class="carousel slide" data-ride="carousel">
@@ -57,7 +93,7 @@
       <div class="item">
         <img src="./images/cargo-plane.jpeg" alt="flying_car" style="width:100%;">
       </div>
-  
+   
 
     <!-- Left and right controls -->
     <a class="left carousel-control" href="#myCarousel" data-slide="prev">
