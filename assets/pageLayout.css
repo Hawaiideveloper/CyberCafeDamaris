@@ -44,13 +44,14 @@ nav {
 nav ul {
   list-style-type: none;
   padding: 0;
+  background: rgb(1, 0, 5);
 }
 
 article {
   float: left;
   padding: 0px;
   width: 85%;
-  background-color: #070000;
+  background-color: #010007;
   height: 50px; /* only for demonstration, should be removed */
 }
 

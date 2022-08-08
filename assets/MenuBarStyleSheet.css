@@ -4,10 +4,11 @@ ul {
   width: 150px;
   list-style: none;
   position: absolute;
+  font-size: larger;
 }
 
 li {
-  padding-right: 5px
+  padding-right: 2px
 }
 
 ul li a {
@@ -16,7 +17,7 @@ ul li a {
 }
 
 ul li a:hover {
-  background-color: rgb(3, 0, 0);
+  background-color: rgb(210, 247, 6);
 }
 
 span {
