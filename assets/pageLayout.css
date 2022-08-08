@@ -7,13 +7,26 @@ body {
 }
 
 /* Style the header */
-header {
+header { 
+  z-index: 100; 
+  position: fixed; 
+  left: 0; top: 0; 
+  height: 3em; 
+  width: 100%; 
   background-color: rgb(41, 46, 48);
   padding: 0px;
-  text-align: center;
-  font-size: 35px;
   color: white;
-}
+  text-align: left;
+} 
+
+
+
+
+
+
+
+
+
 
 /* Create two columns/boxes that floats next to each other */
 nav {
@@ -77,4 +90,24 @@ footer {
     z-index: 9;
     margin: 20px; /* for demo purpose  */
 }
+
+.mainRunner {
+  border: 1px solid #000;
+}
+
+.img1 {
+  border: 1px solid #f00;
+  position: relative;
+  z-index: 2;
+}
+
+.img2 {
+  border: 1px solid #0f0;
+  position: relative;
+  z-index: 1;
+  top: -12px;
+  left: -12px;
+}
+
+
 }
