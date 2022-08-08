@@ -34,10 +34,10 @@ header {
 /* Create two columns/boxes that floats next to each other */
 nav {
   float: left;
-  width: 10%;
+  width: 13%;
   height: 300px; /* only for demonstration, should be removed */
-  background: #ccc;
-  padding: 20px;
+  background: rgb(3, 0, 0);
+  padding: 35px;
 }
 
 /* Style the list inside the menu */
@@ -49,8 +49,8 @@ nav ul {
 article {
   float: left;
   padding: 0px;
-  width: 89%;
-  background-color: #f1f1f1;
+  width: 85%;
+  background-color: #070000;
   height: 50px; /* only for demonstration, should be removed */
 }
 
